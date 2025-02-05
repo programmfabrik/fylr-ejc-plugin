@@ -36,3 +36,10 @@ base_config:
       queries:
         type: json
         position: 8
+      emailclasses:
+        type: json
+        position: 9
+      emaillayouts:
+        type: json
+        position: 10
+
